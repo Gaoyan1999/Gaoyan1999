@@ -9,7 +9,6 @@
 - 🤖 Exploring AI tools, developer utilities, and workflow automation
 - 🎓 IT student sharpening software engineering fundamentals
 - 🌱 Currently learning new technologies across frontend, backend, and AI-assisted development
-- 🔍 Working on projects that support job search, learning, and productivity
 
 ---
 
@@ -35,6 +34,8 @@
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 ---
@@ -42,7 +43,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaoyan1999&theme=tokyo-night&hide_border=true&from=2025-05-16&to=2026-05-16&custom_title=Commit%20Activity%20-%20Last%2012%20Months" alt="Daniel's commit activity for the last 12 months"/>
+  <img src="https://streak-stats.demolab.com?user=Gaoyan1999&theme=github-dark-blue&hide_border=true" alt="Daniel's GitHub streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaoyan1999&theme=github_dark" alt="Daniel's GitHub contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaoyan1999&theme=github_dark" alt="Daniel's GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaoyan1999&theme=github_dark" alt="Daniel's top languages by repo"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gaoyan1999&label=Profile%20Views&color=0e75b6&style=flat)
